@@ -1,0 +1,1 @@
+user_age=int(input("enter your age"))
